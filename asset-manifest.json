@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic-event-calendar/static/css/main.f320a345.css",
+    "main.js": "/dynamic-event-calendar/static/js/main.d3da24c9.js",
+    "static/js/488.c2f8bb07.chunk.js": "/dynamic-event-calendar/static/js/488.c2f8bb07.chunk.js",
+    "index.html": "/dynamic-event-calendar/index.html",
+    "main.f320a345.css.map": "/dynamic-event-calendar/static/css/main.f320a345.css.map",
+    "main.d3da24c9.js.map": "/dynamic-event-calendar/static/js/main.d3da24c9.js.map",
+    "488.c2f8bb07.chunk.js.map": "/dynamic-event-calendar/static/js/488.c2f8bb07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f320a345.css",
+    "static/js/main.d3da24c9.js"
+  ]
+}
